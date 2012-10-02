@@ -34,7 +34,9 @@ Installation
 alm.solrindex
 =============
 
-
+http://blogs.sourceallies.com/2009/10/solr-%E2%80%93-features-and-configuration-details/
+http://plonexp.leocorn.com/leocornus/leocornus.buildout.cfgrepo/xps13
+http://plonexp.leocorn.com/leocornus/leocornus.buildout.cfgrepo/xps15
 
 buildout.cfg::
 
